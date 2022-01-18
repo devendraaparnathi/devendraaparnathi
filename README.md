@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devendraaparnathi
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...Android
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ig:dev_aparnathi
 
 <!---
